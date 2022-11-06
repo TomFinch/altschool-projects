@@ -1,3 +1,5 @@
+## Automobile Shop
+
 John has just opened up his car selling shop, to sell different cars. He gets the cars he needs to sell from different people and they all bring it to him. 
 He needs to manage the list of cars he has, attach a price to them, and put them on display to be sold, basically John needs an inventory to manage cars & to manage sales. For instance, 
 
